@@ -25,3 +25,7 @@ This repository contains code to assess embryonic rotations with a classificatio
 #### 2.9 09_Variational_autoencoder
 #### 2.10 10_Defect_classification
 #### 2.11 11_Keypoint_detection
+
+### 3. Deep_learning_2
+### 4. Deep_learning_3
+### 5. Deep_learning_4
