@@ -37,23 +37,53 @@ In this project, I created a model that uses a MaskRCNN for semantic segmentatio
 Work period: 2021/03 - 2021/08  <br>
 
 #### 2.7 07_Fertilization_classification
+Work period: 2021/04 - 2021/05  <br>
+
 #### 2.8 08_Pix2Pix
+Work period: 2021/05 - 2021/08  <br>
+
 #### 2.9 09_Variational_autoencoder
+No work done.  <br>
+
 #### 2.10 10_Defect_classification
+Work period: 2021/08  <br>
+
 #### 2.11 11_Keypoint_detection
+No work done.  <br>
 
 ### 3. Deep_learning_2
 #### 3.1 01_Developmental_stage_prediction
+Work period: 2021/09  <br>
+
 #### 3.2 02_Siamese_network
+Work period: 2021/09 - now  <br>
+
 #### 3.3 03_Early_detection_developmental_defect
+Work period: 2021/09  <br>
+
 #### 3.4 04_ConvLSTM
+Work period: 2021/09  <br>
+
 #### 3.5 05_VAE
+Work period: 2021/09  <br>
+
 #### 3.6 06_Evaluation
+Work period: 2021/10 - 2022/07  <br>
+
 #### 3.7 07_Siamese_network_2
+Work period: 2021/12 - now  <br>
+
 #### 3.8 08_Siamese_network_3
+Work period: 2022/02 - 2022/05  <br>
+
 #### 3.9 09_In_time_analysis
+Work period: 2022/01 - 2022/02  <br>
+
 #### 3.10 10_Siamese_network_4
+Work period: 2022/04 - 2022/05  <br>
+
 #### 3.11 11_Siamese_scripts
+Work period: 2022/04 - 2022/05  <br>
 
 ### 4. Deep_learning_3
 #### 4.1 00_Siamese_scripts
