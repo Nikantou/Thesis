@@ -3,23 +3,39 @@ This repository is used to list all subparts of the programming work that I perf
 
 I will structure this repository based on the local documentation system that I established for the work on my projects. Thus, all the title names here should correspond to directories on the local PC. Please note that I can update small files here, large files I will have to store locally.
 
+The stated work periods correspond to the time periods when I concentrated on this work. This explicitly does not exclude work on the respective projects done after the stated periods.
+
 ## Work packages
 ### 1. Datasets
 Due to the size of the datasets, for now I have to store the data files on GOR and locally.
 
 ### 2. Deep_learning
+
 This is the original beginning of my work about analysis of developmental robustness during embryogenesis. Following, the subdirectories of this directory are listed with a brief explanation about their purpose.
 
 #### 2.1 01_BBox_Segmentation
+Work period: 2020/11 - 2021/08
 This directory contains code for the training and testing of a segmentation network for zebrafish embryos. Also, with this network, I created a GUI for the segmentation of datasets.
 
 #### 2.2 02_Rotation_Classification
-This repository contains code to assess embryonic rotations with a classification algorithm into three planes: frontal, transversal, saggital.
+Work period: 2021/01 - 2021/03
+This repository contains code to assess embryonic rotations with a classification algorithm into three planes: frontal, transversal, saggital. This code experimented with in silico 3D models.
 
 #### 2.3 03_Developmental_stage_classification
+Work period: 2021/02 - 2021/09
+This directory experiments wit a classification algorithm for detection of developmental stages.
+
 #### 2.4 04_GAN
+Work period: 2021/02 - 2021/03
+This directory contains experimental code for the use of Generative Adversarial Networks on zebrafish embryogenesis.
+
 #### 2.5 05_Embryo_Segmentation
+Work period: 2021/02 - 2021/04
+In this project, I created a model that uses a MaskRCNN for semantic segmentation of zebrafish embryos in the blastula stage.
+
 #### 2.6 06_Unsupervised_Classification_PCA_KMEANS
+Work period: 2021/03 - 2021/08
+
 #### 2.7 07_Fertilization_classification
 #### 2.8 08_Pix2Pix
 #### 2.9 09_Variational_autoencoder
